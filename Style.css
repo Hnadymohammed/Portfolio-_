@@ -1,0 +1,287 @@
+.section1 {
+    display: flex;
+
+}
+
+h3 {
+    margin-left: 7%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav {
+    margin-left: 35%;
+}
+
+nav a {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-decoration: none;
+    font-weight: 400;
+    margin-left: 12px;
+
+}
+
+.section2 {
+
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #F3F4F6;
+    padding: 15px;
+    text-align: center left;
+    align-content: center;
+
+}
+
+#img1 {
+    border: 1px solid gray;
+    border-radius: 100%;
+    margin-left: 60%;
+}
+
+h1 {
+    padding-top: 20px;
+    padding-left: 5%;
+}
+
+p {
+    padding-top: 23px;
+    padding-left: 3%;
+}
+
+.section3 {
+
+    background-image: linear-gradient(to right, #B583FC, #8483FA, #5081F7);
+    align-content: center;
+    text-align: center;
+
+}
+
+.section4 h2 {
+    text-align: center;
+    align-content: center;
+
+}
+
+.div2 {
+    display: inline-block;
+    background-color: #F3F4F6;
+    align-content: center;
+    box-shadow: 0 2px #F3F4F6;
+    margin-left: 20%;
+    margin-bottom: 2%;
+
+
+}
+
+.div3 {
+    display: inline-block;
+    background-color: #F3F4F6;
+    align-content: center;
+    box-shadow: 0 2px #F3F4F6;
+    margin-left: 10%;
+    margin-right: 15%;
+
+}
+
+.div4 {
+    display: inline-block;
+    background-color: #F3F4F6;
+    align-content: center;
+    box-shadow: 0 2px #F3F4F6;
+    margin-left: 20%;
+    margin-bottom: 2%;
+
+
+}
+
+p b {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.section5 {
+    background-image: linear-gradient(to right, #B583FC, #8483FA, #5081F7);
+}
+
+.section5 h2 {
+    text-align: center;
+    align-content: center;
+}
+
+.div5 {
+    display: inline-block;
+    background-color: #F3F4F6;
+    align-content: center;
+    box-shadow: 0 2px #F3F4F6;
+    margin-left: 20%;
+
+
+}
+
+.div6 {
+    display: inline-block;
+    background-color: #F3F4F6;
+    align-content: center;
+    box-shadow: 0 2px #F3F4F6;
+    margin-left: 10%;
+    margin-right: 15%;
+
+}
+
+.div7 {
+    display: inline-block;
+    background-color: #F3F4F6;
+    align-content: center;
+    box-shadow: 0 2px #F3F4F6;
+    margin-left: 20%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+
+}
+
+.section6 h2 {
+    text-align: center;
+    align-content: center;
+}
+
+
+
+
+#p1 {
+    display: inline-block;
+    background-color: #D8B3FE;
+    border-radius: 8%;
+    font-size: 20px;
+    margin-left: 35%;
+
+
+}
+
+#p2 {
+    display: inline-block;
+    background-color: #92C5FC;
+    border-radius: 8%;
+    font-size: 20px;
+    margin-left: 2%;
+
+
+
+}
+
+#p3 {
+    display: inline-block;
+    background-color: #E1CA54;
+    border-radius: 8%;
+    font-size: 20px;
+    margin-left: 2%;
+
+}
+
+#p4 {
+    display: inline-block;
+    background-color: #86EFAC;
+    border-radius: 8%;
+    font-size: 20px;
+    margin-left: 2%;
+
+
+}
+
+.section7 {
+
+    background-color: #F3F4F6;
+    text-align: center;
+    align-content: center;
+}
+
+.section7 img {
+    border: 1px solid black;
+    border-radius: 100%;
+}
+
+.section7 div {
+    display: flex;
+    background-color: white;
+    margin-left: 30%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 30%;
+}
+
+
+
+
+.section8 {
+    background-image: linear-gradient(to right, #B583FC, #8483FA, #5081F7);
+    text-align: center;
+    align-content: center;
+
+}
+
+.section8 div {
+    display: inline-block;
+    background-color: white;
+}
+
+#form {
+    background-color: white;
+    display: block;
+    padding: 100px 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+
+form label {
+    display: block;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 1%;
+    margin-left: 2px;
+    text-align: start;
+
+}
+
+
+form #name,
+#email {
+    display: block;
+    border: 2px solid gray;
+    padding-bottom: 4%;
+    opacity: 0.3;
+    width: 100%;
+
+}
+
+#message {
+    display: block;
+    border: 2px solid gray;
+    margin-bottom: 2%;
+    opacity: 0.3;
+    width: 85%;
+    padding: 40px 40px;
+
+}
+
+#send {
+
+    color: white;
+    background-color: #3E7FFD;
+    border: 1px solid gray;
+    text-align: center;
+    width: 90%;
+    padding: 9px 9px;
+
+}
+
+.section9 p {
+    color: white;
+    background-color: black;
+    text-align: center;
+    align-content: center;
+    padding: 3px;
+    margin-top: 0;
+
+
+}
